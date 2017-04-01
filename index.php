@@ -1,31 +1,50 @@
 <?php
-  $company = 'Movie Time';
-  $title = 'Arrays';
+  $company = 'Disney';
+  $title = 'Eileen\'s Diseny Pixar array - Exercise 8';
   $topic = 'Movies';
-  $franchise = 'Star Wars';
+  $franchise = 'Pixar';
 
   // Let's create a simple array
   $movies = array(
-    'The Phantom Menace',
-    'Attack of the Clones',
-    'Revenge of the Sith',
-    'A New Hope',
-    'The Empire Strikes Back',
-    'Return of the Jedi',
-    'The Force Awakens',
-    'Rogue One'
+    'Toy Story',
+    'A bug\'s Life',
+    'Toy Story 2',
+    'Monsters, Inc.',
+    'Finding Nemo',
+    'The Incredibles',
+    'Cars',
+    'Ratatouille',
+    'Wall-E',
+    'UP',
+    'Toy Story 3',
+    'Cars 2',
+    'Brave',
+    'Monsters University',
+    'The Good Dinosaur',
+    'Inside Out',
+    'Finding Dory'
+
   );
 
   // Let's create an associative array
   $movieYears = array(
-    'The Phantom Menace' => 1999,
-    'Attack of the Clones' => 2002,
-    'Revenge of the Sith' => 2005,
-    'A New Hope' => 1977,
-    'The Empire Strikes Back' => 1980,
-    'Return of the Jedi' => 1983,
-    'The Force Awakens' => 2015,
-    'Rogue One' => 2016
+    'Toy Story' => 1995,
+    'A bug\'s Life' => 1998,
+    'Toy Story 2' => 1999,
+    'Monsters, Inc.' => 2001,
+    'Finding Nemo' => 2003,
+    'The Incredibles' => 2004,
+    'Cars' => 2006,
+    'Ratatouille' => 2007,
+    'Wall-E' => 2008,
+    'UP' => 2009,
+    'Toy Story 3' => 2010,
+    'Cars 2' => 2011,
+    'Brave' => 2012,
+    'Monsters University' => 2013,
+    'The Good Dinosaur' => 2015,
+    'Inside Out' => 2015,
+    'Finding Dory' => 2016
   );
 
   // Count how many items are stored in the array $movies
