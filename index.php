@@ -1,7 +1,7 @@
 <?php
   $company = 'Disney';
   $title = 'Eileen\'s Diseny Pixar array - Exercise 8';
-  $topic = 'Movies';
+  $topic = 'Kids movies';
   $franchise = 'Pixar';
 
   // Let's create a simple array
